@@ -13,7 +13,7 @@ Visual Studio Code
 2. Install the Angular CLI for Angular 8
 3. Install Java 8
 4. Install MySQL 5.5
-5. Clone project from github url ''.
+5. Clone project from github url 'https://github.com/Ketaki93/EmployeeDatabaseManagementSystem-Backend.git'.
 6. Import springboot project 'EmployeeDatabaseManagementSystem' into STS.
 7. Create database 'employeedb' in mysql database;
 8. Right click and Execute the main class 'EmployeeDatabaseManagementSystemApplication.java' as a Spring boot application. The application will start on http://localhost:8080/
