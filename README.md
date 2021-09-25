@@ -1,6 +1,6 @@
-## EmployeeManagementSystem-UI
+# EmployeeManagementSystem-UI
 
-# Technology
+## Technology
 Java 8
 Spring Boot 2.2.1 (with Spring Web MVC, Spring Data JPA)
 MySQL
@@ -8,7 +8,7 @@ Maven 3.6.1
 STS tool
 Visual Studio Code
 
-# Setup
+## Setup
 1. Install Node and npm
 2. Install the Angular CLI for Angular 8
 3. Install Java 8
