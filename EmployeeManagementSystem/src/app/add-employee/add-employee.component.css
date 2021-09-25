@@ -1,0 +1,39 @@
+.emp-add-container {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.emp-add-section {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.emp-add-fields {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  color: brown;
+  align-items: center;
+}
+
+input,
+select {
+  width: 200px;
+  height: 20px;
+}
+
+button {
+  color: black;
+  background-color: rgb(6, 247, 6);
+  height: 25px;
+  border-color: gray;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 150px;
+}
+
+.emp-success {
+  color: green;
+  font-weight: bold;
+}
